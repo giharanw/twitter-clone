@@ -1,0 +1,17 @@
+{
+  "name": "twitter-clone",
+  "version": "1.0.0",
+  "description": "Twitter clone using bootstrap framework",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giharanw/twitter-clone.git"
+  },
+  "keywords": [
+    "Twitter Clone"
+  ],
+  "author": "Gihara Wickramatunge <giharanw@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
